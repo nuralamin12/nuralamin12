@@ -18,7 +18,6 @@ I am a **Cybersecurity Analyst** with a passion for battling **digital threats**
 - **Cybernetic Penetration Tools**: `Kali Linux`, `Metasploit`, `Burp Suite`, `Nmap`
 - **Defensive Shields**: `Splunk`, `ELK Stack`, `Wireshark`
 - **Deep Space Networking**: `TCP/IP`, `Wireshark`, `SSH`, `NFS`
-- **Languages for Tactical Programming**: `Python`, `Bash`, `PowerShell`
 - **Cloud Security**: `AWS Security`, `Azure Security`, `GCP Security`
 
 ### 💥 **Cybersecurity Certifications** (The Digital Armor)
@@ -29,14 +28,14 @@ I am a **Cybersecurity Analyst** with a passion for battling **digital threats**
 ---
 
 ## 📈 **My Galactic Stats (GitHub Contributions)**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+!  https://github.com/nuralamin12/fortigate-FW
 
 ---
 
 ## 🔗 **Intergalactic Communications (Social Links)**  
-- 🛰️ **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🦸‍♂️ **Twitter**: [@YourTwitter](https://twitter.com/your-twitter-handle)
-- 🌌 **Personal Website**: [Your Website](https://your-website.com)
+- 🛰️ **LinkedIn**: https://www.linkedin.com/in/nuralamin12/
+- 🦸‍♂️ **Twitter**: 
+- 🌌 **Personal Website**: https://nuralamin12.blogspot.com/
 
 ---
 
