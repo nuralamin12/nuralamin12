@@ -1,6 +1,6 @@
-# 🚀 Welcome to the Digital Frontier, I'm [Your Name] - Cybersecurity Engineer 🌐
+# 🚀 Welcome to the Digital Frontier, I'm NUR AL - Cybersecurity Engineer 🌐
 
-> "In a world of firewalls and vulnerabilities, I stand guard, defending the realm of the digital cosmos." – **[Your Name]**
+> "In a world of firewalls and vulnerabilities, I stand guard, defending the realm of the digital cosmos." – **NUR ALAMIN**
 
 ---
 
