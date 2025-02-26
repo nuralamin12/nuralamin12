@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nur Alamin
-- 👀 I’m interested in ... Photography, Hacking, Breaking security 
+- 👀 I’m interested in ... Cyber Security, Hacking, Breaking security
 - 📫 How to reach me ... alamin@haren.uk
 
 <!---
