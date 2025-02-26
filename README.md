@@ -1,4 +1,4 @@
-# 🚀 Welcome to the Digital Frontier, I'm NUR AL - Cybersecurity Engineer 🌐
+# 🚀 Welcome to the Digital Frontier, I'm NUR AL-AMIN  - Cybersecurity Enthusiast 🔐🌐
 
 > "In a world of firewalls and vulnerabilities, I stand guard, defending the realm of the digital cosmos." – **NUR ALAMIN**
 
